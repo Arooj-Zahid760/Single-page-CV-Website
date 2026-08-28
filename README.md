@@ -39,6 +39,8 @@ It demonstrates the use of HTML5 to structure and organize personal information,
 <br>
 ```text
 single-page-cv/
+<br>
 │
 ├── index.html
+<br>
 └── README.md
