@@ -41,6 +41,7 @@ It demonstrates the use of HTML5 to structure and organize personal information,
 single-page-cv/
 <br>
 │
+<br>
 ├── index.html
 <br>
 └── README.md
