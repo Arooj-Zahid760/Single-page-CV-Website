@@ -7,6 +7,7 @@ The website presents personal and professional information in a clear and struct
 <h2> Project URL</h2>
 https://arooj-zahid760.github.io/Single-page-CV-Website/
 <br>
+<br>
 ## 📌 Project Overview
 <br>
 This project is a single-page CV website developed as a web development assignment. 
