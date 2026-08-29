@@ -49,8 +49,7 @@ single-page-cv/
 
 <h2> Project URL</h2>
 <br>
-<a href="https://arooj-zahid760.github.io/Single-page-CV-Website/"> View Live Project </a>
-
+https://arooj-zahid760.github.io/Single-page-CV-Website/
 
 
 
