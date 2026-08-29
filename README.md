@@ -5,7 +5,7 @@ A simple and professional single-page CV website created using HTML5.
 The website presents personal and professional information in a clear and structured format.
 <br>
 <h2> Project URL</h2>
-https://arooj-zahid760.github.io/Single-page-CV-Website/
+https://Arooj-Zahid760.github.io/Single-page-CV-Website/
 <br>
 <br>
 ## 📌 Project Overview
