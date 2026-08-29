@@ -46,4 +46,13 @@ single-page-cv/
 <br>
 └── README.md
 <br>
-<a></A>https://github.com/Arooj-Zahid760/Single-page-CV-Website</a>
+
+<h2> Project URL</h2>
+<br>
+<a href="https://arooj-zahid760.github.io/Single-page-CV-Website/"> View Live Project </a>
+
+
+
+
+
+
